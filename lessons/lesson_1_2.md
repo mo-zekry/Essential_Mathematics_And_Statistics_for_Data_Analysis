@@ -2,7 +2,7 @@
 
 <div style="background-color: #2d3748; color: white; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
 <h2 style="color: #81e6d9; margin-top: 0;">Essential Mathematics and Statistics for Data Analysis</h2>
-<p><strong>Course Progress:</strong> [◉◉◯◯◯◯] 33% Complete</p>
+<p><strong>Course Progress:</strong> [◉◉◯◯◯◯] 33% Complete (1hour) </p>
 <p><strong>Lesson Path:</strong> <a href="lesson_1_1.md" style="color: #90cdf4;">Arithmetic Review</a> → <mark style="background-color: #4a5568; color: white;">Introduction to Algebra</mark> → Descriptive Statistics → Basic Probability → Inferential Statistics → Correlation</p>
 </div>
 
