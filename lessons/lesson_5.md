@@ -2,7 +2,7 @@
 
 <div style="background-color: #2d3748; color: white; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
 <h2 style="color: #81e6d9; margin-top: 0;">Essential Mathematics and Statistics for Data Analysis</h2>
-<p><strong>Course Progress:</strong> [◉◉◉◉◯◯] 67% Complete</p>
+<p><strong>Course Progress:</strong> [◉◉◉◉◯◯] 67% Complete (2 hours) </p>
 <p><strong>Lesson Path:</strong> Descriptive Statistics → Measures of Central Tendency → Basic Probability → <mark style="background-color: #4a5568; color: white;">Inferential Statistics</mark> → Correlation</p>
 </div>
 
